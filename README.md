@@ -1,1 +1,16 @@
-# Skin_cancer_detection
+
+# Melonoma Detection
+> To build a CNN based model which can accurately detect melanoma ( a type of skin cancer)
+
+## Problem Statetment
+To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+### Steps for Model Building
+
+1. Data Understanding and preprocessing
+
+2. Build the model and evaluate 
+
+3. Data Augmentation
+
+4. Modelling and Evaluation
