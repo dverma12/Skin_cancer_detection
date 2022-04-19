@@ -7,10 +7,20 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 ### Steps for Model Building
 
-1. Data Understanding and preprocessing
+1. Data Reading/Data Understanding
 
-2. Build the model and evaluate 
+2. Data Creation
 
-3. Data Augmentation
+3. Dataset visualisation
 
-4. Modelling and Evaluation
+4. Model Building & training
+
+5. Data augmentation strategy to resolve underfitting/overfitting 
+
+6. Model Building & training on the augmented data
+
+7. Class Distribution
+
+8. Handling class imbalances
+
+9. Model Building & training on the rectified class imbalance data
